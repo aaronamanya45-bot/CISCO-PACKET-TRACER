@@ -1,12 +1,12 @@
 # Cisco Packet Tracer Project: VLAN Configuration with Inter-VLAN Routing
 
-## 📌 Project Overview
+##  Project Overview
 
 This project demonstrates the design and configuration of a network using **two Layer 3 switches** to achieve **inter-VLAN communication** without using a router. The network uses VLANs to logically separate devices, and a Layer 3 switch performs routing between them.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Design a network with **two switches**, each having **three VLANs**.
 - Assign **one machine per VLAN** on each switch.
@@ -16,7 +16,7 @@ This project demonstrates the design and configuration of a network using **two 
 
 ---
 
-## 🛠️ Devices Used
+##  Devices Used
 
 | Device | Model | Quantity |
 |---|---|---|
@@ -26,4 +26,4 @@ This project demonstrates the design and configuration of a network using **two 
 
 ---
 
-## 🌐 Network Topology
+## Network Topology
